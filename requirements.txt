@@ -1,0 +1,3 @@
+# Python 3.10 or newer. Classic "pygame>=2.5" also works instead of pygame-ce
+# (install only one of them: both provide the same "pygame" module).
+pygame-ce>=2.5
